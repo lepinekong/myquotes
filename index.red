@@ -13,10 +13,10 @@ Article: [
 
     Title: {Index of MyQuotes}
 
-    category: [
-        .title:  {}
+    Inspirational: [
+        .title:  {Inspirational}
         .links: [
-            filenamewithoutextension %./filenamewithoutextension
+            "Inspirational" %./inspirational
 
         ]    
     ]

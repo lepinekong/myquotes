@@ -1,5 +1,8 @@
 
 # Index of MyQuotes
 
-- [filenamewithoutextension](./filenamewithoutextension)
+
+### Inspirational
+
+- [Inspirational](./inspirational)
                         
