@@ -21,6 +21,13 @@ Article: [
         ]    
     ]
 
+    People: [
+        .title:  {People}
+        .links: [
+            "Steve Jobs" %./stevejobs
+
+        ]    
+    ]
 ]
         
 do read http://readablehumanformat.com/lib.red

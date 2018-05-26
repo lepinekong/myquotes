@@ -6,3 +6,8 @@
 
 - [Inspirational](./inspirational)
                         
+
+### People
+
+- [Steve Jobs](./stevejobs)
+                        
