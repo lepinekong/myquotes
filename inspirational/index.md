@@ -22,5 +22,5 @@ task and another and another and by the end of the day that one that one task co
 
 ### Steve Jobs on difference between people who fails and people who succeed
 
-If you're going to start something new you have to feel passionate about it because it's really hard it's so hard to start a company, you have to work so hard to start a company you have to work so hard that if you are not passionate about it you'll give up and most of the difference between the people that succeed and people that don't is people that don't give up they give up sooner than the people that succeed.
+>If you're going to start something new you have to feel passionate about it because it's really hard it's so hard to start a company, you have to work so hard to start a company you have to work so hard that if you are not passionate about it you'll give up and most of the difference between the people that succeed and people that don't is people that don't give up they give up sooner than the people that succeed.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GuB-d7jRkCw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -32,7 +32,7 @@ task and another and another and by the end of the day that one that one task co
 
     Steve-Jobs: [
         .title: {Steve Jobs on difference between people who fails and people who succeed}
-        .text: {If you're going to start something new you have to feel passionate about it because it's really hard it's so hard to start a company, you have to work so hard to start a company you have to work so hard that if you are not passionate about it you'll give up and most of the difference between the people that succeed and people that don't is people that don't give up they give up sooner than the people that succeed.}
+        .text: {>If you're going to start something new you have to feel passionate about it because it's really hard it's so hard to start a company, you have to work so hard to start a company you have to work so hard that if you are not passionate about it you'll give up and most of the difference between the people that succeed and people that don't is people that don't give up they give up sooner than the people that succeed.}
         .links: [
             {Steve Jobs serene interview on Japanese Public TV (2001)} https://www.youtube.com/watch?v=GuB-d7jRkCw
         ]
