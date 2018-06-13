@@ -25,6 +25,12 @@ Bookmarks: [
  - 2010} https://www.youtube.com/watch?v=yChtop17sd8
         ] 
     ]
+
+    On-Vision: [
+        .title: {On Vision}
+        .quote: {You have to have vision this vision has to be based on understanding about the dynamics of the market globally and then you have to pursue this vision no matter what you have to build motivation inside your company.            
+        }
+    ]
 ]
 
 do read http://readablehumanformat.com/lib.red

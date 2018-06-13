@@ -16,3 +16,9 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yChtop17sd8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### On Vision
+
+>You have to have vision this vision has to be based on understanding about the dynamics of the market globally and then you have to pursue this vision no matter what you have to build motivation inside your company.
+
+
