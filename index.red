@@ -24,6 +24,7 @@ Article: [
     People: [
         .title:  {People}
         .links: [
+            "Carlos Ghosn" %./carlosghosn
             "Steve Jobs" %./stevejobs
 
         ]    

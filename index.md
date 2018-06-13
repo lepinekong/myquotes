@@ -9,5 +9,7 @@
 
 ### People
 
+- [Carlos Ghosn](./carlosghosn)
+                        
 - [Steve Jobs](./stevejobs)
                         
