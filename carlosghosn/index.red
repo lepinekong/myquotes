@@ -25,7 +25,7 @@ Bookmarks: [
 
     On-Vision: [
         .title: {On Vision}
-        .quote: {You have to have vision this vision has to be based on understanding about the dynamics of the market globally and then you have to pursue this vision no matter what you have to build motivation inside your company.            
+        .quote: {You have to have vision, this vision has to be based on understanding about the dynamics of the market globally, and then you have to pursue this vision no matter what, and you have to build motivation inside your company.            
         }
     ]
 
